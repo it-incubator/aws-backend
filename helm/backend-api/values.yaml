@@ -18,7 +18,7 @@ config:
 
 
 ingress:
-  host: api.it-kamasutra.com
+  host: api-aws.it-kamasutra.com
   tlsSecret: backend-api-tls
   clusterIssuer: letsencrypt-prod
 
